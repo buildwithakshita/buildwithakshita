@@ -98,10 +98,6 @@ Four Socket.IO nodes behind an Nginx sticky-session load balancer, synced throug
   <img src="https://streak-stats.demolab.com?user=akshita251&theme=tokyonight&hide_border=true&background=0D1117&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0" alt="streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshita251&theme=tokyo-night&bg_color=0D1117&color=7F5AF0&line=2CB67D&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 <!-- Snake is generated daily by .github/workflows/snake.yml -->
 <p align="center">
   <picture>
