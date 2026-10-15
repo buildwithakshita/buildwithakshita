@@ -28,7 +28,8 @@ const akshita = {
 };
 ```
 
-- 🧠 Researched **spatio-temporal traffic forecasting** with GNNs (A3T-GCN, DCRNN, ASTGCN) and turned the predictions into an optimal-route API
+- 📄 **Published researcher** — 2 papers on graph neural networks for Indian traffic and sign-language recognition
+- 🧠 Built **spatio-temporal traffic forecasting** with GNNs (A3T-GCN, DCRNN, ASTGCN) and turned the predictions into an optimal-route API
 - 🏗️ Love designing **distributed systems**: message queues, load balancers, auth gateways, horizontal scaling
 - 🌱 Learning: MLOps, LLM apps, and shipping ML models behind real APIs
 
@@ -66,7 +67,7 @@ const akshita = {
 <td width="50%" valign="top">
 
 #### 🚦 [Spatiotemporal Traffic Forecasting](https://github.com/buildwithakshita/Spatiotemporal-Forecasting-and-Optimal-Path-Navigation)
-Graph neural networks (A3T-GCN · DCRNN · ASTGCN) forecasting road speeds 15/30/45 min ahead on PeMS and Mumbai road networks.
+Graph neural networks (A3T-GCN · DCRNN · ASTGCN) forecasting road speeds 15/30/45 min ahead on Indian road networks. 📄 *Published in JISEM 2025.*
 
 `PyTorch` `PyG Temporal` `GNN`
 
@@ -99,6 +100,19 @@ Four Socket.IO nodes behind an Nginx sticky-session load balancer, synced throug
 </td>
 </tr>
 </table>
+
+---
+
+### 📄 Publications
+
+- **Exploring the Efficacy of Graph Neural Networks in Predicting Traffic Flow in India**<br/>
+  P. Patil, V. Mittal, D. Mondhe, **A. Upadhyay**, N. Giri · *Journal of Information Systems Engineering and Management*, 2025<br/>
+  <a href="https://doi.org/10.52783/jisem.v10i10s.1360"><img src="https://img.shields.io/badge/DOI-10.52783%2Fjisem.v10i10s.1360-3B3027?style=flat-square&labelColor=8A6E52" /></a>
+  <a href="https://github.com/buildwithakshita/Spatiotemporal-Forecasting-and-Optimal-Path-Navigation"><img src="https://img.shields.io/badge/code-GitHub-3B3027?style=flat-square&logo=github&logoColor=D9C4A3" /></a>
+
+- **Classification of ISL Using Pose and Object Detection-Based Techniques**<br/>
+  V. Mittal, P. Patil, **A. Upadhyay**, K. Madhwani, N. Giri · *Smart Trends in Computing and Communications* (Springer LNNS), 2023, pp. 131–144<br/>
+  <a href="https://doi.org/10.1007/978-981-99-0838-7_11"><img src="https://img.shields.io/badge/DOI-10.1007%2F978--981--99--0838--7__11-3B3027?style=flat-square&labelColor=8A6E52" /></a>
 
 ---
 
